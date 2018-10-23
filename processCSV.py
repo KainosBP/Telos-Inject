@@ -2,6 +2,7 @@
 # ----------
 # By: J.T. Buice - KainosBP
 # 
+#  Using the Telos Snapshot from: https://github.com/Telos-Foundation/snapshots/raw/master/tlos_genesis_snapshot.csv
 #
 #  stdin w/ pipe:
 #   cat example.csv | python3 process.py
